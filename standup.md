@@ -1,3 +1,3 @@
-## Date: Month Day, Year
+# Date: Month Day, Year
 
-# Attendance:
+## Attendance:
