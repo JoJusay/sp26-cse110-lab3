@@ -1,12 +1,30 @@
-icon {
+/* Fonts - From Google Fonts*/
+.playwrite-ie-Custom {
+  font-family: "Playwrite IE", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.playfair-display-Custom {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Ensure Images are not too large */
+.icon {
     max-width: 100px;
     max-height: 100px;
     width: auto;
     height: auto;
 }
 
-labeller {
+.labeller {
     font: none;
     padding: 0%;
-
+    color: black;
 }
+
+
