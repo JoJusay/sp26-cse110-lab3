@@ -8,6 +8,7 @@
 
 ### Summary Table
 | Blank | Topic 1 | Topic 2 |
+| ----- | ------- | ------- |
 | Feedback | -- | -- |
 | Improvements | -- | -- |
 | Drawbacks | -- | -- |
