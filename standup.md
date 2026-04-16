@@ -1,4 +1,4 @@
-# Meeting Minutes
+# [TEAM NAME] Meeting Minutes
 
 ## Date: Month Day, Year
 
@@ -7,8 +7,22 @@
 - ...
 
 ### Summary Table
-| Blank | Topic 1 | Topic 2 |
-| ----- | ------- | ------- |
-| Feedback | -- | -- |
-| Improvements | -- | -- |
-| Drawbacks | -- | -- |
+| Blank | Task/Topic 1 | Task/Topic 2 | ... |
+| ----- | ------- | ------- | ------ |
+| Due Date | -- | -- | ... |
+| Staff Assigned | -- | -- | ... |
+| Blockers | -- | -- | ... |
+| Improvements/Changes | -- | -- | ... |
+| Drawbacks | -- | -- | ... |
+| Feedback | -- | -- | ... |
+
+
+### Task/Topic 1
+- Item One
+- Item Two
+- ...
+
+### Task/Topic 2
+- Item One
+- Item Two
+- ...
