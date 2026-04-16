@@ -13,7 +13,7 @@
   font-style: normal;
 }
 
-/* Ensure Images are not too large */
+/* Ensures Images are not too large */
 .icon {
     max-width: 100px;
     max-height: 100px;
@@ -27,6 +27,7 @@
     color: black;
 }
 
+/* Hovers */
 button:hover {
     color: gray;
 }
@@ -35,5 +36,19 @@ a:hover {
     color: darkblue;
 }
 
+select:hover {
+    color: darkblue;
+    background-color: antiquewhite;
+}
 
+/* Action */
+
+select:active {
+    color: darkgreen;
+    background-color: white;
+}
+
+details:active {
+    color: darkgreen;
+}
 
