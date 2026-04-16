@@ -6,6 +6,10 @@
 - Name: (Present/Absent)
 - ...
 
+## MAJOR ANNOUNCEMENTS:
+- Announcement 1
+- ...
+
 ### Summary Table
 | Blank | Task/Topic 1 | Task/Topic 2 | ... |
 | ----- | ------- | ------- | ------ |
