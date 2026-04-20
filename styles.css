@@ -73,6 +73,12 @@
     color: black;
 }
 
+@media screen and (max-width: 768px) {
+    div {
+        height: 300px;
+    }
+}
+
 /* Position */
 video.pos {
     max-width: 53.5%;
