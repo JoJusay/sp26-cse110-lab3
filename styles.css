@@ -13,6 +13,11 @@
   font-style: normal;
 }
 
+/* Colors */
+.background {
+    background-color: lightblue;
+}
+
 /* Ensures Images are not too large */
 .icon {
     max-width: 100px;
