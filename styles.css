@@ -16,9 +16,11 @@
 /* Colors */
 .background {
     background-color: lightblue;
+    border: 2px solid rgb(73, 139, 161);
+    border-radius: 10px;
 }
 
-/* Ensures Images are not too large */
+/* Sizing */
 .icon {
     max-width: 100px;
     max-height: 100px;
@@ -30,6 +32,15 @@
     font: none;
     padding: 0%;
     color: black;
+}
+
+/* Position */
+video.pos {
+    height: 400px;
+    width: auto;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
 }
 
 /* Hovers */
