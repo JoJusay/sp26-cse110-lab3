@@ -14,8 +14,12 @@
 }
 
 /* Colors */
+:root {
+    --main-bg-color: lightblue;
+}
+
 .background {
-    background-color: lightblue;
+    background-color: var(--main-bg-color, rgb(73, 139, 161));
     border: 2px solid rgb(73, 139, 161);
     border-radius: 10px;
 }
