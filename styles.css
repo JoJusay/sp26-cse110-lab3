@@ -1,12 +1,14 @@
 /* Fonts - From Google Fonts*/
 .playwrite-ie-Custom {
   font-family: "Playwrite IE", cursive;
+  /* font-optical-sizing: auto; */
   font-weight: 100;
   font-style: normal;
 }
 
 .playfair-display-Custom {
   font-family: "Playfair Display", serif;
+  /* font-optical-sizing: auto; */
   font-weight: 500;
   font-style: normal;
 }
@@ -100,7 +102,7 @@ video ~ img{
 }
 
 .labeller {
-    font: ".playwrite-ie-Custom";
+    font-family: "Playwrite IE", cursive;
     padding: 0%;
     color: black;
 }
@@ -129,7 +131,7 @@ div.styled {
     margin-top: 5px; 
     display:block;
 
-    * {
+    & * {
         border: 2px dotted rgb(73, 139, 161);
     }
 }
