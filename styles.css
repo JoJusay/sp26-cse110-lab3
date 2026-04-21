@@ -53,6 +53,11 @@ b, h3 {
     background-color: var(--main-bg-color, rgb(73, 139, 161));
     border: 2px solid rgb(73, 139, 161);
     border-radius: 10px;
+
+    & h3 {
+        text-decoration: underline;
+        text-align: center;
+    }
 }
 
 .flexbox p {
