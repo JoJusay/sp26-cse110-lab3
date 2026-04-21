@@ -13,6 +13,14 @@
   font-style: normal;
 }
 
+b, h3 {
+    text-decoration: underline;
+}
+
+#Eddard {
+    color:darkred;
+}
+
 /* Grid */
 .container {
     display: grid;
@@ -75,6 +83,7 @@ video ~ img{
     margin-left: 2%;
     margin-bottom: 2%;
 }
+
 /* Sizing */
 .icon {
     max-width: 100px;
