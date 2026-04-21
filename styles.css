@@ -39,6 +39,10 @@ b, h3 {
     width: auto;
 }
 
+.container:has(summary) {
+    text-decoration: underline;
+}
+
 /* Flexbox */
 .flexbox {
     display: flex;
