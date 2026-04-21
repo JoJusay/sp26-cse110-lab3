@@ -102,7 +102,7 @@ video ~ img{
 }
 
 .labeller {
-    font-family: "Playwrite IE", cursive;
+    font: bold;
     padding: 0%;
     color: black;
 }
