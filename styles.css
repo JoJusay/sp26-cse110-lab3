@@ -59,6 +59,22 @@
     border-radius: 10px;
 }
 
+fieldset > label {
+    text-decoration: underline;
+}
+
+select + option {
+    background-color: lightgrey;
+}
+
+video ~ img{
+    border: 2px solid rgb(73, 139, 161);
+    width: auto ;
+    height: 400px;
+    padding: 2%; 
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
 /* Sizing */
 .icon {
     max-width: 100px;
